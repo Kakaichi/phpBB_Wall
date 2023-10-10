@@ -39,7 +39,3 @@ Other features
 * Prosilver css used for statuses divs.
 
 [Screenshot](https://gyazo.com/b892dd05c3ddc86be5f0a2bb3ccdb4c4)
-
-## License
-
-[GPLv2](license.txt)
